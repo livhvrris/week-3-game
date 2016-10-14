@@ -1,0 +1,24 @@
+body {
+	background-color: #d3d3d3;
+}
+
+h1 {
+	font-family: 'Codystar', cursive;
+	font-size: 72px;
+	padding: 20px 20px 20px 20px
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bolder;
+	font-size: 36px;
+	line-height: 28px;
+	padding-left: 20px;
+}
+
+ul {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	line-height: 28px;
+	padding-left: 20px;
+}
